@@ -1,5 +1,5 @@
 [![Build Status](https://dev.azure.com/Azpel13/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/Azpel13.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/Azpel13/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=3&branchName=master)
-
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=azpel13-jr&metric=alert_status)](https://sonarcloud.io/dashboard?id=azpel13-jr)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
